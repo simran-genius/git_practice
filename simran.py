@@ -4,3 +4,4 @@ sum=0
 for i in range(3):
     sum+=vector1[i]/vector2[i]
 print(sum)
+print("hello world")
