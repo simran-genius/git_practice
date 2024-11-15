@@ -13,14 +13,8 @@ The dot-product of two vectors **A** and **B** is defined as:
 **B = [b₁, b₂, ..., bₙ]**
 
 The dot-product is calculated as:
-**now one mathematical expression**
-The dot-product of two vectors \( \mathbf{A} = [a_1, a_2, \ldots, a_n] \) and \( \mathbf{B} = [b_1, b_2, \ldots, b_n] \) is defined as:
 
 $\mathbf{A} \cdot \mathbf{B} = \sum_{i=1}^{n} a_i \cdot b_i$
-
-
-**A ⋅ B = Σ (aᵢ ⋅ bᵢ) for i = 1 to n**
-
 
 ## **Example Code Snippet**
 Here is a simple implementation of the vector dot-product in C++:
