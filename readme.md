@@ -13,6 +13,8 @@ The dot-product of two vectors **A** and **B** is defined as:
 **B = [b₁, b₂, ..., bₙ]**
 
 The dot-product is calculated as:
+**now one mathematical expression**
+$ \sqrt{3x-1}+(1+x)^2 $
 
 **A ⋅ B = Σ (aᵢ ⋅ bᵢ) for i = 1 to n**
 
@@ -45,3 +47,40 @@ int main() {
     } 
     return 0;
 }
+```
+# LISTS
+### two type of product exist
+* dot product
+* cross product
+### output of two type of product
++ dot give scalar
++ cross product give vector
+
+1. first 
+   - dot 
+   - cross
+# Task list
+- [x] tw work
+- [ ] ooad work
+- [ ] ooad learn
+- [x] fol topic
+# footnote
+Here is a simple footnote[^1].
+A footnote can also have multiple lines[^2].
+
+[^1]: My reference.
+[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
+  This is a second line.
+# Alerts dekhlo guys
+> [!NOTE]
+> useful information uder should know.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+# Tables 
+
+|Version|Approach|Complexity|Memory Usage|Performance|
+|----|----|----|----|----|
+|Naive|	Basic for-loop|	𝑂(𝑛)|minimal|moderate|
+|Parallelized|	Multithreading|O(n/p)|	Moderate|	High|
+SIMD Optimized|	Vectorized operations|O(n/k)|	High	|Very High|
