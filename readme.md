@@ -14,7 +14,12 @@ The dot-product of two vectors **A** and **B** is defined as:
 
 The dot-product is calculated as:
 **now one mathematical expression**
-$\sqrt{3x-1}+(1+x)^2$
+The dot-product of two vectors \( \mathbf{A} = [a_1, a_2, \ldots, a_n] \) and \( \mathbf{B} = [b_1, b_2, \ldots, b_n] \) is defined as:
+
+\[
+\mathbf{A} \cdot \mathbf{B} = \sum_{i=1}^{n} a_i \cdot b_i
+\]
+
 
 **A ⋅ B = Σ (aᵢ ⋅ bᵢ) for i = 1 to n**
 
