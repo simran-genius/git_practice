@@ -14,7 +14,7 @@ The dot-product of two vectors **A** and **B** is defined as:
 
 The dot-product is calculated as:
 **now one mathematical expression**
-$ \sqrt{3x-1}+(1+x)^2 $
+$\sqrt{3x-1}+(1+x)^2$
 
 **A ⋅ B = Σ (aᵢ ⋅ bᵢ) for i = 1 to n**
 
